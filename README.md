@@ -1,4 +1,4 @@
-# Finance_CS50
+# Finance CS50
 
 Project for week 9 of CS50x2023
 
