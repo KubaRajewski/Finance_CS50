@@ -8,6 +8,8 @@ https://cs50.harvard.edu/x/2020/tracks/web/finance/#configuring
 
 Implementing a web based application for a mock stock portfolio
 
+Screenshots of applicaction available in screenshots folder
+
 Technologies
 ------------------------------
 Python
